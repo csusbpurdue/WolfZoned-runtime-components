@@ -1,1 +1,1 @@
-This is for a cs project
+This is a bunch of customization files for different linux uses.
